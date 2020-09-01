@@ -1,7 +1,7 @@
-# JuiceMachine7000
-# This is a simple C++ program for beginners
+# Juice Machine 7000
+## This is a simple C++ program for beginners
 
-# this juice vending machine gives you 6 option 
+### this juice vending machine gives you 6 option 
 1) press "c" to get COLA
 2) press "b" to get ROOT BEER
 3) press "l" to get LEMON-LIME
